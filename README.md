@@ -15,7 +15,7 @@ A Medicine Recommendation System is an intelligent machine learning solution des
 
 The project uses a TF-IDF based multi-class text classification model using Logistic Regression.
 TF-IDF converts textual descriptions into numerical vectors, and Logistic Regression is used to predict the disease category associated with a medicine.
-# Key Components
+## Key Components
 
 Data Cleaning & Preprocessing:
 Stopword removal, text normalization, and TF-IDF vectorization.
@@ -29,5 +29,5 @@ Model achieved 98.55% accuracy, demonstrating strong learning capability from te
 Recommendation System:
 A TF-IDF + Cosine Similarity based engine that recommends relevant medicines when a user inputs a disease name.
 
-# Overview
-![Output][]
+## ⚠️ Note: This system is intended for educational and research purposes only and should not replace professional medical advice.
+
